@@ -1,0 +1,10 @@
+adult
+board
+crash
+dream
+legal
+money
+night
+queen
+sense
+shoot
